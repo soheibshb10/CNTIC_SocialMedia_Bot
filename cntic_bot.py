@@ -104,7 +104,7 @@ async def createAccount_command(update: Update, context: ContextTypes.DEFAULT_TY
 
 
 def handle_response(text: str) -> str:
-    processed: str = text
+    processed: str = text.lower()
 
     if "hello" in processed:
         return "Hey there"
