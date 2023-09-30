@@ -17,6 +17,7 @@ Use commands like /poststory, /postapost, /createAccount to schedule posts and m
 /postapost:Asking you to enter your picture file that you want to publish it and set this parameters in picture caption time=year-month-day hour:minute,option=2
 /deleteInstgAccount to delete your instgram credentials from bot database
 
+![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/f3ab8327-288e-440c-98c2-4d777adbb022)
 ![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/00107841-7d8e-407f-b1e0-b48f642c1447)
 ![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/90e9a1f8-b8a7-4187-9971-f6dc49f54f0c)
 
