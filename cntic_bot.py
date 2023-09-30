@@ -20,7 +20,7 @@ from telegram.ext import (
 )
 
 # Telegram Token
-TOKEN: Final = "6443425010:AAG_qpNzH4P36W1g2tHrLu9AtgjuWXopJnM"
+TOKEN: Final = <Telegram_token>
 # Telegram Bot username
 BOT_USERNAME = "@cntic_social_media_bot"
 # List to store it your username and password
