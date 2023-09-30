@@ -18,6 +18,10 @@ Use commands like /poststory, /postapost, /createAccount to schedule posts and m
 /deleteInstgAccount to delete your instgram credentials from bot database
 
 ![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/00107841-7d8e-407f-b1e0-b48f642c1447)
+![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/f4674533-d665-496f-b588-aab57026f8b2)
+![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/6312a07f-a3fa-49f1-97b5-cf302596542f)
+![image](https://github.com/soheibshb10/CNTIC_SocialMedia_Bot/assets/97317629/31772e17-f629-424e-a77b-b9a12dbf8f20)
+
 
 
 
